@@ -1,2 +1,2 @@
-# Pupify
+# First Project
 Project 1
