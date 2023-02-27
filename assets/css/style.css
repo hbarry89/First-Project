@@ -1,0 +1,60 @@
+/* https://coolors.co/e3d26f-ca895f-a15e49-4e3822-2f1b25 */
+
+:root {
+    --cafe-noir: #4E3822;
+    --red-wood: #A15E49;
+    --persian-orange: #CA895F;
+    --citron: #E3D26F;
+    --pistachio: #8CC084;
+  }
+
+* {
+    background-color: var(--cafe-noir) !important;
+    color: white !important;
+    text-align: center;
+    margin: 2px;
+    padding: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    cursor: crosshair;
+}
+
+.title {
+    font-size: xx-large;
+}
+
+.input {
+    background-color: white !important;
+    color: black  !important;
+    width: 400px;
+    margin: 5px;
+    padding: 5px;
+}
+
+button {
+    width: 150px;
+    background-color: var(--pistachio) !important;
+    color: var(--cafe-noir) !important;
+    margin: 5px;
+}
+
+.imgStyle {
+    border-radius: 5rem;
+    border: solid 1px white;
+}
+
+#cors-access {
+    font-size: x-small;
+}
+
+a {
+    color: var(--pistachio) !important;
+    font-size: x-small;
+}
+
+footer {
+    font-size: small;
+}
+
+.pups {
+    font-size: x-small;
+}
